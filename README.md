@@ -1,6 +1,6 @@
 # NIDS
 # Network Intrusion Detection System (NIDS) using Machine Learning
-https://huggingface.co/spaces/DeepikaDeepika/Network_Intrusion_detection_system
+Network_Intrusion_detection_system
 
 This project implements a machine learning-based Network Intrusion Detection System (NIDS) using the NSL-KDD dataset.
 
